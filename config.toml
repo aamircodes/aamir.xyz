@@ -1,3 +1,4 @@
+baseUrl="https://aamir.xyz/"
 publishDir = "docs"
 title        = "My Blog"
 languageCode = "en-us"
