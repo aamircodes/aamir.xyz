@@ -4,26 +4,31 @@
   
   <url>
     <loc>aamir.xyz/</loc>
-    <lastmod>2023-02-25T21:31:00+00:00</lastmod>
+    <lastmod>2023-02-25T21:43:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>aamir.xyz/posts/my-first-post/</loc>
-    <lastmod>2023-02-25T21:31:00+00:00</lastmod>
+    <loc>aamir.xyz/posts/my-second-post/</loc>
+    <lastmod>2023-02-25T21:43:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>aamir.xyz/posts/</loc>
-    <lastmod>2023-02-25T21:31:00+00:00</lastmod>
+    <lastmod>2023-02-25T21:43:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>aamir.xyz/tags/</loc>
-    <lastmod>2023-02-25T21:31:00+00:00</lastmod>
+    <lastmod>2023-02-25T21:43:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>aamir.xyz/tags/untagged/</loc>
+    <lastmod>2023-02-25T21:43:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>aamir.xyz/posts/my-first-post/</loc>
     <lastmod>2023-02-25T21:31:00+00:00</lastmod>
   </url>
   
