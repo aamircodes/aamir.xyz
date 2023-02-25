@@ -1,4 +1,3 @@
-baseurl      = "aamir.xyz"
 publishDir = "docs"
 title        = "My Blog"
 languageCode = "en-us"

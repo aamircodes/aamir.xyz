@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>aamir.xyz/</loc>
+    <loc>/</loc>
     <lastmod>2023-02-25T21:43:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>aamir.xyz/posts/my-second-post/</loc>
+    <loc>/posts/my-second-post/</loc>
     <lastmod>2023-02-25T21:43:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>aamir.xyz/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-02-25T21:43:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>aamir.xyz/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-02-25T21:43:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>aamir.xyz/tags/untagged/</loc>
+    <loc>/tags/untagged/</loc>
     <lastmod>2023-02-25T21:43:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>aamir.xyz/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2023-02-25T21:31:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>aamir.xyz/blog/</loc>
+    <loc>/blog/</loc>
   </url>
   
   <url>
-    <loc>aamir.xyz/series/</loc>
+    <loc>/series/</loc>
   </url>
   
 </urlset>
