@@ -1,43 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://aamir.xyz/posts/my-fifth-post/</loc>
+    <lastmod>2023-02-26T23:10:03+00:00</lastmod>
+  </url><url>
     <loc>https://aamir.xyz/</loc>
-    <lastmod>2023-02-25T21:43:56+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-02-26T23:10:03+00:00</lastmod>
+  </url><url>
+    <loc>https://aamir.xyz/posts/</loc>
+    <lastmod>2023-02-26T23:10:03+00:00</lastmod>
+  </url><url>
     <loc>https://aamir.xyz/posts/my-second-post/</loc>
     <lastmod>2023-02-25T21:43:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aamir.xyz/posts/</loc>
-    <lastmod>2023-02-25T21:43:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamir.xyz/tags/</loc>
     <lastmod>2023-02-25T21:43:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamir.xyz/tags/untagged/</loc>
     <lastmod>2023-02-25T21:43:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamir.xyz/posts/my-first-post/</loc>
     <lastmod>2023-02-25T21:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aamir.xyz/blog/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aamir.xyz/authors/</loc>
+  </url><url>
+    <loc>https://aamir.xyz/categories/</loc>
+  </url><url>
     <loc>https://aamir.xyz/series/</loc>
   </url>
-  
 </urlset>
