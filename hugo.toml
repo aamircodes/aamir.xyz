@@ -1,5 +1,6 @@
 title = "Awesome Hugo blog"
 baseURL = 'https://aamircodes.github.io/aamir.xyz/'
+publishDir = "docs"
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
