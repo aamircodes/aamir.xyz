@@ -2,45 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aamircodes.github.io/aamir.xyz/</loc>
-    <lastmod>2023-06-07T16:00:58+01:00</lastmod>
+    <loc>https://aamir.xyz/</loc>
+    <lastmod>2024-02-10T17:45:54+00:00</lastmod>
   </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/posts/</loc>
-    <lastmod>2023-06-07T16:00:58+01:00</lastmod>
+    <loc>https://aamir.xyz/posts/</loc>
+    <lastmod>2024-02-10T17:45:54+00:00</lastmod>
   </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/posts/test/</loc>
-    <lastmod>2023-06-07T16:00:58+01:00</lastmod>
+    <loc>https://aamir.xyz/posts/my-first-post/</loc>
+    <lastmod>2024-02-10T17:45:54+00:00</lastmod>
   </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/posts/table-of-content/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <loc>https://aamir.xyz/categories/</loc>
   </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/posts/math-typesetting/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/posts/markdown-syntax/</loc>
-    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/posts/rich-content/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/posts/placeholder-text/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/tags/emoji/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/posts/emoji-support/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/tags/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/pages/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/pages/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aamircodes.github.io/aamir.xyz/categories/</loc>
+    <loc>https://aamir.xyz/tags/</loc>
   </url>
 </urlset>
