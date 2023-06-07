@@ -3,17 +3,17 @@
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title itemprop="name">404 Page not found | Awesome Hugo blog</title>
-<meta property="og:title" content="404 Page not found | Awesome Hugo blog" />
-<meta name="twitter:title" content="404 Page not found | Awesome Hugo blog" />
-<meta itemprop="name" content="404 Page not found | Awesome Hugo blog" />
-<meta name="application-name" content="404 Page not found | Awesome Hugo blog" />
+<title itemprop="name">How to enable table of content ? | Awesome Hugo blog</title>
+<meta property="og:title" content="How to enable table of content ? | Awesome Hugo blog" />
+<meta name="twitter:title" content="How to enable table of content ? | Awesome Hugo blog" />
+<meta itemprop="name" content="How to enable table of content ? | Awesome Hugo blog" />
+<meta name="application-name" content="How to enable table of content ? | Awesome Hugo blog" />
 <meta property="og:site_name" content="Awesome hugo blog" />
 
-<meta name="description" content="Minimal Hugo blog theme with light and dark mode support">
-<meta itemprop="description" content="Minimal Hugo blog theme with light and dark mode support" />
-<meta property="og:description" content="Minimal Hugo blog theme with light and dark mode support" />
-<meta name="twitter:description" content="Minimal Hugo blog theme with light and dark mode support" />
+<meta name="description" content="Setup table of content in Hugo blog awesome theme">
+<meta itemprop="description" content="Setup table of content in Hugo blog awesome theme" />
+<meta property="og:description" content="Setup table of content in Hugo blog awesome theme" />
+<meta name="twitter:description" content="Setup table of content in Hugo blog awesome theme" />
 
 <meta property="og:locale" content="en-us" />
 <meta name="language" content="en-us" />
@@ -28,12 +28,50 @@
 
 
 
+    
+    
+    
+    
+
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content=2023-05-02T00:00:00Z />
+    <meta property="article:published_time" content=2023-05-02T00:00:00Z />
+
+    
+
+    
+
+    <script defer type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "headline": "How to enable table of content ?",
+        "author": {
+        "@type": "Person",
+        "name": ""
+        },
+        "datePublished": "2023-05-02",
+        "description": "Setup table of content in Hugo blog awesome theme",
+        "wordCount":  70 ,
+        "mainEntityOfPage": "True",
+        "dateModified": "2023-05-02",
+        "image": {
+        "@type": "imageObject",
+        "url": ""
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "Awesome Hugo blog"
+        }
+    }
+    </script>
+
 
 <meta name="generator" content="Hugo 0.113.0">
 
     
 
-    <link rel="canonical" href="https://aamircodes.github.io/aamir.xyz/404.html">
+    <link rel="canonical" href="https://aamircodes.github.io/aamir.xyz/posts/table-of-content/">
     <link href="/aamir.xyz/style.min.41175b050032d7b140ed7b503e6724d0166055787dc68ff6fb7e4d5d7b9aebf1.css" rel="stylesheet">
     <link href="/aamir.xyz/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
 
@@ -92,7 +130,7 @@ stroke-linejoin="round" class="feather feather-home">
                 </li>
                 
                 <li>
-                    <a class="menu-link " href="/aamir.xyz/posts/">
+                    <a class="menu-link active" href="/aamir.xyz/posts/">
                         Posts
                     </a>
                     
@@ -119,11 +157,38 @@ stroke-linejoin="round" class="feather feather-home">
     </nav>
 </div>
 
-<div class="wrapper">
-    <main class="main-404" aria-label="Content">
-        <h1>404 NOT FOUND</h1>
-        <p>You just hit a route that doesn't exist.</p>
-    </main>
+<div class="wrapper post">
+    <main class="page-content" aria-label="Content">
+        <article>
+            <header class="header">
+                <h1 class="header-title">How to enable table of content ?</h1>
+                
+                <div class="post-meta">
+                    <time datetime="2023-05-02T00:00:00&#43;00:00" itemprop="datePublished"> 2 May 2023 </time>
+                </div>
+            </header>
+            <details class="toc">
+                <summary><b>Table of Contents</b></summary>
+                <nav id="TableOfContents">
+  <ul>
+    <li><a href="#table-of-content">Table of content</a></li>
+  </ul>
+</nav>
+            </details><div class="page-content">
+                <h2 id="table-of-content">Table of content</h2>
+<p>This theme supports displaying table of content in blog posts.</p>
+<p>To enable it, globally set <code>toc</code> to <code>true</code> in <code>config.toml</code>:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[</span><span class="nx">params</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">toc</span> <span class="p">=</span> <span class="kc">true</span>
+</span></span></code></pre></div><p>This will enable table of content for all posts. If you want to enable it for a specific post, add <code>toc = true</code> to the front matter of the post:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l">How to enable table of content</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">date</span><span class="p">:</span><span class="w"> </span><span class="ld">2023-05-02</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">toc</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nn">---</span><span class="w">
+</span></span></span></code></pre></div>
+            </div>
+        </article></main>
 </div>
 <footer class="footer">
     <span class="footer_item"> </span>
