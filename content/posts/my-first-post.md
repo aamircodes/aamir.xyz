@@ -1,7 +1,13 @@
 ---
-title: 'Test'
-date: 2024-02-10T17:45:54Z
+title: 'Test post'
+date: 2025-06-16T22:41:08+01:00
 draft: false
 ---
 
-This is a **test** post.
+# Welcome to My First Post
+
+This is a test post created in Hugo.  
+You can write Markdown here just like any regular `.md` file.
+
+- Point 1
+- Point 2
